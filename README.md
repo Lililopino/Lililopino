@@ -18,10 +18,10 @@ Here are some ideas to get you started:
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
-    <style>
+    <style>dcfh yhkh jl
       body {
         background: #FFFFFF;
-        margin: 0;
+        margin: 0;hj mvk, 
       }
 
       #backgroundImage {
