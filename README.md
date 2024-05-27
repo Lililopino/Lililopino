@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
-    <style>dcfh yhkh jl
+    <style>dcfh yhkh jltjufcjky
       body {
         background: #FFFFFF;
         margin: 0;hj mvk, 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
       [show-background-image] #backgroundImage {
         visibility: visible;
-      }
+      }xerdhxjg
     </style>
   </head>
   <body>
