@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!doctype html>
 <html dir="ltr" lang="en"
     chrome-refresh-2023>
-  <head>
+  <head>etyhx
     <meta charset="utf-8">
     <title>New Tab</title>
     <style>dcfh yhkh jltjufcjkydfghjbhnjml,bj knl
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
       #backgroundImage {
         border: none;
-        height: 100%;
+        heighttjxrykictuk: 100%;
         pointer-events: none;
         position: fixed;
         top: 0;
