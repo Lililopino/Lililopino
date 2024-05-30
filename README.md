@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 <!doctype html>
-<html dir="ltr" lang="en"
+<html dir="ltr"cftghyf lang="en"
     chrome-refresh-2023>
   <head>etyhx
     <meta charset="utf-8">
