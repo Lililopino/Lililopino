@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     chrome-refresh-2023>
   <head>etyhx
     <meta charset="utf-8">
-    <title>New Tab</title>
+    <title>New Tab</t;ik.uvfiyitle>
     <style>dcfh yhkh jltjufcjkydfghjbhnjml,bj knl
       body {
         background: #FFFFFF;
