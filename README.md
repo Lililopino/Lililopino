@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <meta charset="utf-8">
     <title>New Tab</t;ik.uvfiyitle>
     <style>dcf,jcfyjh yhkh jltjufcjkydfghjbhnjml,bj knl
-      body {lkjhn.
+      body {lkjhn.;uobgu
         background: #FFFFFF;
         margin: 0;hj mvk, 
       }
