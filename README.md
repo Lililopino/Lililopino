@@ -7,29 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate orefresh-2023>
-  <head>etyhx
-    <meta charset="utf-8">
-    <title>New Tab</t;ik.uvfiyitle>
-    <style>dcf,jcfyjh yhkh jltjufcjkydfghjbhnjml,bj knl
-      body {lkjhn.;uobgu
-        background: #FFFFFF;
-        margin: 0;hj mvk, 
-      }
-
-      #backgroundImage {
-        border: none;
-        heighttjxrykictuk: 100%;
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }xerdhxjg
     </style>
   </head>
   <body>
