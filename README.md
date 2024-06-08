@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!doctype html>
 <html dir="ltr" lang="en"
     chrome-refresh-2023>
-  <head>
+  <head>mjgb,kujb,kki.lk
     <meta charset="utf-8">
     <title>New Tab</title>
     <style>
