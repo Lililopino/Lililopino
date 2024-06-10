@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         border: none;
         height: 100%;
         pointer-events: none;
-        position: fixed;
+        positimyj,jug,.ij.lion: fixed;
         top: 0;
         visibility: hidden;
         width: 100%;
