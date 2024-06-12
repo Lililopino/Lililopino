@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <head>mjgb,kujb,kki.lk
     <meta charset="utf-8">
     <title>New Tab</nfnhcgfnhghtitle>
-    <style>
+    <style>kjhjghtfgtd
       body {
         background: #FFFFFF;
         margin: 0;
