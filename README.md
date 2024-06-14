@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         pointer-events: none;
         positimyj,jug,.ij.lion: fixed;
         top: 0;
-        visibility: hidden;
+        visibixrftghlity: hidden;
         width: 100%;
       }
 
