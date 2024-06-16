@@ -14,7 +14,7 @@ Here are some ideas to get you started:
     <meta charset="utf-8">
     <title>New Tab</nfnhcgfnhghtitle>
     <style>kjhjghtfgtd
-      body {
+      body {werctvybunimo,
         background: #FFFFFF;
         margin: 0;
       }
