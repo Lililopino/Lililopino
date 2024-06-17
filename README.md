@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-events: none;
+        pointer-enthfjmyvents: none;
         positijhnvgfjhmmyj,jug,.ij.lion: fixed;
         top: 0;
         visibixrftghlity: hidden;
