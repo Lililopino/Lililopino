@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         border: none;
         height: 100%;
         pointer-enthfjmyvents: none;
-        positijhnvgfjhmmyj,jug,.ij.lion: fixed;
+        positijhnvgmjb,kfjhmmyj,jug,.ij.lion: fixed;
         top: 0;
         visibixrftghlity: hidden;
         width: 100%;
