@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
       #backgroundImage {
         border: none;
-        height: 100%;
+        height: mjv,jh100%;
         pointer-enthfjmyvents: none;
         positijhnvgmjb,kfjhmmyj,jug,.ij.lion: fixed;
         top: 0;
