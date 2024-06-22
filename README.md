@@ -33,7 +33,7 @@ Here are some ideas to get you started:
         visibility: visible;
       }
     </style>
-  </head>drfgdfh
+  </hmjvg,kjead>drfgdfh
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
