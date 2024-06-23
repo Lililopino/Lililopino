@@ -15,7 +15,7 @@ Here are some ideas to get you started:
     <title>New Tabetyubjnkml,</nfnhcgfnhghtitle>
     <style>kjhjghtfgtd
       body {werctvybunimo,
-        background: #FFFFFF;
+        background:kumyglu,jg #FFFFFF;
         margin: 0;
       }
 
