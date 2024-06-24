@@ -29,7 +29,8 @@ Here are some ideas to get you started:
         width: 100%;
       }
 
-      [show-background-image] #backgroundImage {
+      [show-background
+      kumyg-image] #backgroundImage {
         visibility: visible;
       }
     </style>
