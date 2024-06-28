@@ -18,7 +18,7 @@ Here are some ideas to get you started:
       body {werctvybunimo,
         background:kumyglu,jg #FFFFFF;
         margin: 0;
-      }
+      }lkjn
 
       #backgroundImage {
         border: none;
