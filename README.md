@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </html>
 
 <!doctype html>
-<html dir="ltr" lang="en"
+<html dir="ltr" .kjnlang="en"
     chrome-refresh-2023>
   <head>
     <meta charset="utf-8">
