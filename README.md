@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
-    <style>
+    <style>,kujb
       body {
         background: #FFFFFF;
         margin: 0;
