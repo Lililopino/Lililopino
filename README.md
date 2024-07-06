@@ -61,7 +61,7 @@ Here are some ideas to get you started:
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-events: none;
+        pointer-nts: none;
         position: fixed;
         top: 0;
         visibility: hidden;
@@ -69,8 +69,7 @@ Here are some ideas to get you started:
       }
 
       [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
+        visibility: visible
     </style>
   </head>
   <body>
