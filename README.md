@@ -13,10 +13,10 @@ Here are some ideas to get you started:
   <head>mjgb,kujb,kki.lk
     <meta charset="utf-8">
     <title,mjhb>New Tabetyubjnkml,</nfnhcgfnhghtitle>
-    <style>kjhnhgmjght
+    <style>kjhnhgfmjght
     ghjkfgtd
       body {werctvybunimo,
-        backgrlkmhvjound:kumyglu,jg #FFFFFF;
+        backgrlkmhvjougdnd:kumyglu,jg #FFFFFF;
         margin: 0;
       }lkjn
 
