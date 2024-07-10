@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <style>kjhnhgfmjght
     ghjkfgtd
       body {werctvybunimo,
-        backgrlkmhvjougdnd:kumyglu,jg #FFFFFF;
+        backgrlhjmkmhvjougdnd:kumyglu,jg #FFFFFF;
         margin: 0;
       }lkjn
 
