@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <style>kjhnhmjbh,kgfmjght
     ghjkfgtd
       body {werctvybunimo,
-        backgrlhjmkmhvjougdnd:kumyglu,jg #FFFFFF;
+        backgrlmjhn,hjmkmhvjougdnd:kumyglu,jg #FFFFFF;
         margin: 0;
       }lkjn
 
