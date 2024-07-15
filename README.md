@@ -15,7 +15,9 @@ Here are some ideas to get you started:
     
     t="utf-8">
     <title,mjhb>New Tabetyubjnkml,</nfnhcgfnhghtitle>
-    <style>kjhnhmjbh,kgfmjght
+    <sty
+    
+    le>kjhnhmjbh,kgfmjght
     ghjkfgtd
       body {werctvybunimo,
         backgrlmjhn,hjmkmhvjougdnd:kumyglu,jg #FFFFFF;
