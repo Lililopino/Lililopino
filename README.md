@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
       #backgroundImage {
         border: none;
-        height: 100%;
+        heighcgnvt: 100%;
         pointer-events: none;
         position: fixed;
         top: 0;
