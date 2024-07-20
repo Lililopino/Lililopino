@@ -17,14 +17,6 @@ Here are some ideas to get you started:
     <title,mjhb>New Tabetyubjnkml,</nfnhcgfnhghtitle>
     <sty
     
-    le>kjhnhmbhjbh,kgfmjght
-    ghjkfgtd
-      body {werctvybunimo,
-        backgrlmjhn,hjmkmhvjougdnd:kumyglu,jg #FFFFFF;
-        margin: 0;
-      }lkjn
-
-      #backgroundImage {
         border: none;
         height: m,kujgbjv,jh100%;
         pointer-enthfj,kubjmyvents: none;
