@@ -13,10 +13,6 @@ Here are some ideas to get you started:
   <head>mjvngb,kujb,kki.lk
     <meta charse
     
-    t="utf-8">
-    <title,mjhb>New Tabetyubjnkml,</nfnhcgfnhghtitle>
-    <sty
-    
         border: none;
         height: m,kujgbjv,jh100%;
         pointer-enthfj,kubjmyvents: none;
