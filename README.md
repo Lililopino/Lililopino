@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <head>mjvngb,kujb,kki.lk
     <meta charse
     
-        border: none;
+        border: nonjje;
         height: m,kujgbjv,jh100%;
         pointer-enthfj,kubjmyvents: none;
         positijhnvgmjb,kfjhmmyj,jug,.ij.lion: fixed;
