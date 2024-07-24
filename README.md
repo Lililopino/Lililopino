@@ -9,15 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
     </style>
   </head>
-  <body>KHGIUGIfgnUGIYGPIYBGPI
-  <head>mjvngb,kujb,kki.lk
-    <meta charse
-    
-        border: nonjje;
-        height: m,kujgbjv,jh100%;
-        pointer-enthfj,kubjmyvents: none;
-        positijhnvgmjb,kfjhmmyj,jug,.ij.lion: fixed;
-        top: 0;
         visibixrftghlity: hidden;
         width: 100%;
       }
