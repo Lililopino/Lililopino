@@ -13,12 +13,6 @@ Here are some ideas to get you started:
         width: 100%;
       }
 
-      [show-background
-      kumyg-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </hmjvg,kjead>drfgdfh
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
