@@ -19,13 +19,6 @@ Here are some ideas to get you started:
     <link rel="stylesheet" href="shared_vars.css">
   </body>
 </html>
-
-<!doctype html>
-<html dir="ltr" .kjnlang="en"
-    chrome-refresh-2023>
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
     <style>
       body {
         background: #FFFFFF;
