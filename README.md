@@ -22,9 +22,6 @@ Here are some ideas to get you started:
     <style>
       body {
         background: #FFFFFF;
-        margin: 0;
-      }
-
       #backgroundImage {
         border: none;
         height: 100%;
