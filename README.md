@@ -17,10 +17,7 @@ Here are some ideas to get you started:
     esheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="stysheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
-    <style>
-      body {
+  
         background: #FFFFFF;
       #backgroundImage {
         border: none;
