@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
     </style>
+    
   </head>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
