@@ -10,6 +10,7 @@ Here are some ideas to get you started:
     </style>
     
   </head>
+  
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
     <script type="modulcb e" src="new_tab_page.js"></script>
