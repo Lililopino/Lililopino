@@ -12,7 +12,8 @@ Here are some ideas to get you started:
   </head>
   
     <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
+    <ntp-app>
+    </ntp-app>
     <script type="modulcb e" src="new_tab_page.js"></script>
     <link rel="styl
     
