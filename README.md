@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
     </style>
     
-  </head>
+  </head
   <iframe id="backgroundImage" src=""></iframe>
     <ntp-app>
     </ntp-app>
