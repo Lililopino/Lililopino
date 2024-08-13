@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     eet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
   
-        background: #FFFFFF;
+    background: #FFFFFF;
       #backgroundImage {
         border: none;
         height: 100%;
