@@ -26,9 +26,7 @@ Here are some ideas to get you started:
         top: 0;
         visibility: hidden;
         width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
+      }show-background-image] #backgroundImage {
         visibility: visible
     </style>
   </head>
