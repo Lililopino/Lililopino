@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <link rel="stysh
     eet" hre
     f
-    ="chrome://theme/colors.css?sets=ui,chrome">
+   ="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
   background: #FFFFFF;
       #backgroundImage {
