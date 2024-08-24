@@ -10,9 +10,7 @@ Here are some ideas to get you started:
     </head
   <iframe id="backgroundImage" src=""></iframe>
     <ntp-app>
-    
- 
-</ntp-app
+    </ntp-app
   ript type="modulcb e" src="new_tab_page.js"></script>
     <link rel="styl
     esheet" href="chrome://resources/css/text_defaults_md.css">
