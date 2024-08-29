@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...kbooehkwfwkbobopoqbjhvhbjkls
     </style>
     </h
-  ead
+ead
   <iframe id="backgroundImage" src=""></iframe>
     <ntp-app>
     </ntp-app
