@@ -7,8 +7,7 @@ Here are some ideas to get you started:
  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...kbooehkwfwkbobopoqbjhvhbjkls
     </style>
-    </hkbv;obbbwcfbvk vbjnkmfcnkBVLBDNQD
-ead
+    </hkbv;obbbwcfbvk vbjnkmfcnkBVLBDNQDead
   <iframe id="backgroundImage" src=""></iframe>
     <ntp-app>
     </ntp-app
