@@ -38,9 +38,7 @@ Here are some ideas to get you started:
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="styleshejmyhbet" href="shared_vars.css">
   </body>
-</html
-
-<!doctype html>
+</html<!doctype html>
 <html dir="ltr" lang="en"
     chrome-refresh-2023>
   <head>
