@@ -28,7 +28,7 @@ Here are some ideas to get you started:
        width: 100%;
       }show-background-image] #backgroundImage {
       visibility: visible
-  </style>
+</style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
