@@ -9,7 +9,7 @@ Here are some ideas to get you started:
     </style>
     </hkbv;obbbwcfbvk vbjnkdqqdqwmfcnkBVLBDNQDead
   <iframe id="backgroundImage" src=""></iframe>
-    <n-app>
+    <n-ap>
     </ntp-app
   ript type="modulcb e" src="new_tab_page.js"></script>
     <link rel="styl
