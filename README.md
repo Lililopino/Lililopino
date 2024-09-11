@@ -21,7 +21,7 @@ Here are some ideas to get you started:
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-nts: none;
+      pointer-nts: none;
         position: fixed;
       top: 0;
        visibility: hidden;
