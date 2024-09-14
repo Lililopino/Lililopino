@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <link rel="stylesheet" href="shared_vars.css">
   background: #FFFFFF;
       #backgroundImage {
-        border: none;
+      border: none;
     height: 100%;
       pointer-nts: none;
         position: fixed;
