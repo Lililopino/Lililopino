@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         position: fixed;
       top: 0;
        visibility: hidden;
-       width: 100%;
+    width: 100%;
       }show-background-image] #backgroundImage {
  visibility: visible
 </style>
