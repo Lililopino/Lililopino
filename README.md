@@ -28,8 +28,7 @@ Here are some ideas to get you started:
     width: 100%;
       }show-background-image] #backgroundImage {
  visibility: visible
-</style>
-  </head>
+</style </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
