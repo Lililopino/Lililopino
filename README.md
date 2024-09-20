@@ -22,8 +22,7 @@ Here are some ideas to get you started:
     height: 100%;
       pointer-nts: none;
         position: fixed;
-      top: 0;
-       visibility: hidden;
+      top: 0 visibility: hidden;
     width: 100%;
       }show-background-image] #backgroundImage {
  visibility: visible
