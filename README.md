@@ -20,8 +20,7 @@ Here are some ideas to get you started:
       #backgroundImage {
       border: none;fhcgjkujlikgfhgjhkulik
     height: 100%;
-      pointer-nts: none;
-        position: fixed;
+      pointer-nts: none;position: fixed;
       top: 0 visibility: hidden;gfdghjkl;'
     width: 100%;
       }show-background-image] #backgroundImage {
