@@ -44,8 +44,7 @@ Here are some ideas to get you started:
         background: #FFFFFF;
         margin: 0;
       }
-
-      #backgroundImage {
+ #backgroundImage {
         border: none;
         heighcgnvt: 100%;
         pointer-events: none;
