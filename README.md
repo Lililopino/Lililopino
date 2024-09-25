@@ -53,8 +53,7 @@ Here are some ideas to get you started:
         visibility: hidden;
         width: 100%;
       }
-tdhh
-      [show-background-image] #backgroundImage {
+tdhh[show-background-image] #backgroundImage {
         visibility: visible;
       }
     </style>
