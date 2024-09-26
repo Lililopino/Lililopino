@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       pointer-nts: none;position: fixed;
       top: 0 visibility: hidden;gfdghjkl;'
     width: 100%;
-      }show-background-image] #backgroundImage {
+  }show-background-image] #backgroundImage {
  visibility: visible
 </style </head>
   <body> <iframe id="backgroundImage" src=""></iframe>
