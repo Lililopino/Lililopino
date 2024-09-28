@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   ript type="modulcb e" src="new_tab_page.js"></script>
     <link rel="styl
     esheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="styseet" hre
+    <link rel="styseet" hrevgvg
    ="chrome://theme/colors.css?kjkjsets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
   background: #FFFFFF;
