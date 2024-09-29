@@ -42,8 +42,7 @@ Here are some ideas to get you started:
     <style>,kujb
       body {
         background: #FFFFFF;
-        margin: 0;
-      }
+        margin: 0 }
  #backgroundImage {
         border: none;
         heighcgnvt: 100%;
