@@ -65,7 +65,5 @@ tdhh[show-background-image] #backgroundImage {
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
   </body>
-</html>
-
-- ⚡ Fun fact: ...
+</html- ⚡ Fun fact: ...
 -->
