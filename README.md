@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     width: 100%;
   }show-background-image] #backgroundImage {
  visibility: visible
-</style </head>
+</style </head>dfgthjkgfchjkl;
   <body> <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
