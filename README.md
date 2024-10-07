@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <html dir="ltr" lang="en"
     chrome-refresh-2023>
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8">gdfhgjkgfhjikogfhujk
     <title>New Tab</title>
     <style>,kujb
       body {
