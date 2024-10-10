@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   <iframe id="backgroundImage" src=""></iframe> <n-ap>
     </ntp-app
   ript type="modulcb e" src="new_tab_page.js"></script>
-    <link rel="styl
+    <link rel="stylsdcsc
     esheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="styseet" hrevgvg
    ="chrome://theme/colors.css?kjkjsets=ui,chrome">,.
