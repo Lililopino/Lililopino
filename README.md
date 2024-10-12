@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <link rel="styseet" hrevgvg
    ="chrome://theme/colors.css?kjkjsets=ui,chrome">,.
     <link rel="stylesheet" hrev  vf="shared_vars.css">
-  background: #FFFFFF;fgcgb
+  background: #FFFFFF;fgcgbukjhj
       #backgroundImage {
       border: none;fhcgjkujlikgfhgjhkulik
     height: 100%;
