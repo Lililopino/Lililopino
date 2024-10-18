@@ -10,7 +10,7 @@ Here are some ideas to get you started:
     </hkbv;obbbwcfbvk vbjnkdqqdqwmfcnkBVLBDNQDead
   <iframe id="backgroundImage" src=""></iframe> <n-ap>
     </ntp-app
-  ript type="modulcb e" src="new_tab_page.js"></script>
+  ript type="modulcb e" src="new_tab_page.js"></script>k,ikn
     <link rel="stylsdcscjhjuh
     esheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="styseet" hrevgvg
