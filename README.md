@@ -14,7 +14,8 @@ Here are some ideas to get you started:
     <link rel="stylsdcscjhjuhnvb 
     esheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="styseet" hrevgvg
-   ="chrome://theme/colors.css?kjkjsets=ui,chrome">,.tdhc
+   ="chrome://theme/colors.css?kjkjsets=ui,chrom
+   e">,.tdhc
     <link rel="stylesheet" hrev  vf="shared_vars.css">
   background: #FFFFFF;fgcgbukjhj
       #backgroundImage {zCX
