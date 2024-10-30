@@ -9,7 +9,7 @@ Here are some ideas to get you started:
     </style>
     </hkbv;obbbwcfbvk vbjnkdqqdqwmfcnkBVLBDNQDead
   <iframe id="backgroundImage" src=""></iframe> <n-ap>
-    </ntp-appghfvg mm m
+    </ntp-appghfvg mm mbg
   ript type="modulcb e" src="new_tab_page.js"></script>k,ikn
     <link rel="stylsdcscjhjuhnvb khnjnj
     esheet" href="chrome://resources/css/text_defaults_md.css">
