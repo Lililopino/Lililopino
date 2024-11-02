@@ -17,7 +17,7 @@ Here are some ideas to get you started:
    ="chrome://theme/colors.css?kjkjsets=ui,chrom
    e">,.tdhc
     <link rel="stylesheet" hrev  vf="shared_vars.css">
-  background: #FFFFFF;fgcgbukjhjsfsdf
+  background: #FFFFFF;fgcgbukjhjsfsdffghuijoklfgtuyijokpl;[
       #backgroundImage {zCX
       border: none;fhcgjkujlikgfhgjhkulik
     height: 100%;
