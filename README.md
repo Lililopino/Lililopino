@@ -15,7 +15,7 @@ Here are some ideas to get you started:
     esheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="styseet" hrevgvgscd
    ="chrome://theme/colors.css?kjkjsets=ui,chrom
-   e">,.tdhc
+   e">,.tdhcmjbmjn
     <link rel="stylesheet" hrev  vf="shared_vars.css">
   background: #FFFFFF;fgcgbukjhjsfsdffghuijoklfgtuyijokpl;[
       #backgroundImage {zCX
